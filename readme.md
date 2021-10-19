@@ -13,11 +13,15 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
 </div>
 
 
 <!-- Personal Contact -->
-<h1 align="center">Keep in touch with me</h1>
+<!-- <h1 align="center">Keep in touch with me</h1> -->
 
 <!-- Github Status -->
 <h1 align="center">Github Status</h1>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=citraFebriawirti&theme=prussian&column=7&no-frame=true&show_icons=true"/></p>
