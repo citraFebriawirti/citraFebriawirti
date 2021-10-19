@@ -14,6 +14,7 @@
 
 
 <!-- Personal Contact -->
+<h1 align="center">Keep in touch with me</h1>
 
 <!-- Github Status -->
-<h1 align="center">⚙ Technologies & Tools</h1>
+<h1 align="center">Github Status</h1>
