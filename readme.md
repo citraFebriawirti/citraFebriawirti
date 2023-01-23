@@ -1,5 +1,5 @@
 <!-- First Row -->
-<h1 align="center">Hello, I'm Citra Febriawirti <img src="https://raw.githubusercontent.com/KelvinMulyawan/KelvinMulyawan/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello, I'm Citra Febriawirti></h1>
 
 <!-- Second Row -->
 
