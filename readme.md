@@ -1,5 +1,5 @@
 <!-- First Row -->
-<h1 align="center">Hello, I'm Citra Febriawirti</h1>
+<h1 align="center">Hello, I'm Citra Febriawirti 🤠</h1>
 
 <!-- Second Row -->
 
