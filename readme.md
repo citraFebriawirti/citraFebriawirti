@@ -4,7 +4,7 @@
 <!-- Second Row -->
 
 <!-- Github Metrics -->
-<p align="center"><img width="400" src="https://github.com/citraFebriawirti/citraFebriawirti/blob/main/github-metrics.svg"><img width="900" height="1" alt=""></p>
+<!-- <p align="center"><img width="400" src="https://github.com/citraFebriawirti/citraFebriawirti/blob/main/github-metrics.svg"><img width="900" height="1" alt=""></p> -->
 
 <!-- Techonology and Tools -->
 
