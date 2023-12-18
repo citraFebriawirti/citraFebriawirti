@@ -34,3 +34,7 @@
 <!-- Github Status -->
 <h1 align="center">Github Status</h1>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=citraFebriawirti&theme=prussian&column=7&no-frame=true&show_icons=true"/></p>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{citraFebriawirti}/count.svg" alt="citraFebriawirti :: Visitor's Count" /></p>
